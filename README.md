@@ -3,3 +3,5 @@
 
 
 Human Activity Recognition with Smartphones data from kaggle notebook for machinfy
+
+Dataset link https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones
